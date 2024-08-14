@@ -1,0 +1,13 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.1",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-uglify": "^3.0.2",
+    "del": "^7.0.0"
+  }
+}
